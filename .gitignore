@@ -8,3 +8,4 @@
 .externalNativeBuild
 app/build
 app/out
+.idea/

@@ -23,7 +23,7 @@ class MockitoCodeGenerator(
         "MockitoJUnitRunner" to "org.mockito.junit.MockitoJUnitRunner",
         "MockitoJUnit" to "org.mockito.junit.MockitoJUnit",
         "Mock" to "org.mockito.Mock",
-        "mock" to "org.mockito.kotlin.mock",
+        "mock" to "com.nhaarman.mockito_kotlin.mock",
         "Mockito" to "org.mockito.Mockito",
         "UseConstructor" to "org.mockito.kotlin.UseConstructor"
     ) + super.knownImports
